@@ -102,7 +102,7 @@ Servo Motor
 
 1. Clone the repository:
 
-git clone [https://github.com/your-username/fire-fighter-robot.git](https://github.com/Anushkag01/Fire-Fighting-Robot-with-Aurdino.git)
+git clone https://github.com/Anushkag01/Fire-Fighting-Robot-with-Aurdino.git
 
 2. Open the Arduino code in Arduino IDE
 3. Connect Arduino UNO via USB
