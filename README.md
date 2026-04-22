@@ -160,5 +160,5 @@ git clone https://github.com/Anushkag01/Fire-Fighting-Robot-with-Aurdino.git
 
 👥 Contributors
 
-* Anushka Gupta , Arnav Lunia , Arya Suresh , Athreya 
-* PES1UG23CS088,PES1UG23CS104,PES1UG23CS107
+* Anushka Gupta , Arnav Lunia , Arya Suresh , Athreya Shashidhara
+* PES1UG23CS088,PES1UG23CS104,PES1UG23CS107 , PES1UG23CS120
