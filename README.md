@@ -160,5 +160,5 @@ git clone [https://github.com/your-username/fire-fighter-robot.git](https://gith
 
 👥 Contributors
 
-* Anushka Gupta , Arnav Lunia , Athreya , Arya 
+* Anushka Gupta , Arnav Lunia , Arya Suresh , Athreya 
 * PES1UG23CS088,PES1UG23CS104,PES1UG23CS107
